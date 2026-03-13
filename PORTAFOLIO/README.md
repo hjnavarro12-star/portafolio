@@ -1,6 +1,6 @@
 # Portafolio
 
-- **Estudiante**: Edwar Suarez
+- **Estudiante**: Harvi Navarro
 
 - **Carrera**: Ingeniería en Sistemas
 
@@ -11,4 +11,4 @@
 - **Año**: 2026
 ----
 
-[Ver](https://edwarsuarezq.github.io/PortafolioEJ/)
+[Ver](https://www.linkedin.com/in/harvi-Navarro/)
